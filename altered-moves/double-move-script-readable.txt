@@ -1,0 +1,29 @@
+Harden
+Type: Normal
+Move Power: CON
+Move Time: 1 bonus action
+PP: 5
+Duration: Instantaneous
+Range: Self
+Description: You increase your defense, able to reduce
+incoming damage. After activating this move, reduce any
+damage dealt to you by 1d4 + MOVE until the beginning of
+your next turn.
+Higher Levels: The damage dice roll for this move changes
+to 1d6 at level 5, 1d10 at level 10, and 1d12 at level 17.
+
+Discharge
+Type: Electric
+Move Power: DEX
+Move Time: 1 action
+PP: 10
+Duration: Instantaneous
+Range: Self (10ft circle)
+Description: You let loose a flare of electricity in a 10 foot
+circle, centered on you, striking all creatures around you.
+Creatures in the area must make a DEX saving throw
+against your Move DC. On a fail, a creature takes 2d6 +
+MOVE electric damage. If a creature fails the save by 5 or
+more, it is paralyzed.
+Higher Levels: The damage dice roll for this move changes
+to 2d8 at level 5, 4d6 at level 10, and 6d6 at level 17.
